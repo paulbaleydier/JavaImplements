@@ -1,5 +1,12 @@
-### Bienvenue sur mon GitHub 👋
+### Hello 👋 
+My name is Java_Implements, welcome to my GitHub!
 
+
+I'm currently working on [Lysaria](lysaria.fr) Minecraft server with [Java](https://www.java.com/) / [Bukkit](https://bukkit.org/) 
+
+I'm learning and training to code in [Java](https://www.java.com/), [Python](https://www.python.org/) and C
+
+I will had two themeplates to help creating Minecraft Plugins with [Bukkit API](https://bukkit.org/) and Discord Bot with [JDA API](https://github.com/DV8FromTheWorld/JDA), keep updated !
 <!--
 **JavaImplements/JavaImplements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
