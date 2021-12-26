@@ -2,7 +2,7 @@
 My name is Java_Implements, welcome to my GitHub!
 
 
-I'm currently working on [Lysaria](lysaria.fr) Minecraft server with [Java](https://www.java.com/) / [Bukkit](https://bukkit.org/) 
+I'm currently working on [Lysaria](https://lysaria.fr) Minecraft server with [Java](https://www.java.com/) / [Bukkit](https://bukkit.org/) 
 
 I'm learning and training to code in [Java](https://www.java.com/), [Python](https://www.python.org/) and C
 
